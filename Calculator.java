@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Calculate {
+public class Calculator {
     static int result;
     static String z, w;
 
